@@ -1,2 +1,2 @@
 # ex3
-line 2
+line 2 snir r
